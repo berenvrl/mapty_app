@@ -24,7 +24,7 @@ Geolocation API is used to reach locations.
 
 # Reach MaptyApp
 
-You can reach the project here, [MaptyApp](http://127.0.0.1:5500/mapty_app/index.html)
+You can reach the project here, [MaptyApp](https://maptyappberen.netlify.app/)
 
 # Visual of the project
 
