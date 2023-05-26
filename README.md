@@ -28,7 +28,7 @@ You can reach the project here, [MaptyApp](http://127.0.0.1:5500/mapty_app/index
 
 # Visual of the project
 
-![aptyApp](maptyApp.png)
+![aptyApp](visuals/maptyApp.png)
 
 # Acknowledgments
 
